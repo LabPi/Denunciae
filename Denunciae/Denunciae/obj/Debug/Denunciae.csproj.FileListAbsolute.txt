@@ -1,0 +1,9 @@
+C:\Users\Rivelino Junior\Documents\GitHub\Denunciae\Denunciae\Denunciae\bin\Debug\Denunciae.dll
+C:\Users\Rivelino Junior\Documents\GitHub\Denunciae\Denunciae\Denunciae\bin\Debug\Denunciae.pdb
+C:\Users\Rivelino Junior\Documents\GitHub\Denunciae\Denunciae\Denunciae\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Rivelino Junior\Documents\GitHub\Denunciae\Denunciae\Denunciae\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Rivelino Junior\Documents\GitHub\Denunciae\Denunciae\Denunciae\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Rivelino Junior\Documents\GitHub\Denunciae\Denunciae\Denunciae\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Rivelino Junior\Documents\GitHub\Denunciae\Denunciae\Denunciae\obj\Debug\Denunciae.csprojResolveAssemblyReference.cache
+C:\Users\Rivelino Junior\Documents\GitHub\Denunciae\Denunciae\Denunciae\obj\Debug\Denunciae.dll
+C:\Users\Rivelino Junior\Documents\GitHub\Denunciae\Denunciae\Denunciae\obj\Debug\Denunciae.pdb
